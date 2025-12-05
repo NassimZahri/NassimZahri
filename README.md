@@ -25,8 +25,8 @@
 I am a final-year engineering student in **Computer Science and Networks** at **EMSI**, passionate about **Artificial Intelligence**, **DevOps**, and **Cloud Computing**. 
 
 - 🔭 I’m currently looking for a **Graduation Internship (PFE)** for a duration of 4 to 6 months.
-- 🌱 I’m currently learning deeper concepts in **MLOps** and **Advanced Cloud Architecture**.
-- 👯 I’m looking to collaborate on open-source projects related to AI and Automation.
+- 🌱 I’m currently learning deeper concepts in **Backend Development**, **MLOps** and **Advanced Cloud Architecture**.
+- 👯 I’m looking to collaborate on projects related to AI and Automation.
 - ⚡ Fun fact: I play Chess ♟️.
 
 ---
@@ -52,6 +52,7 @@ I am a final-year engineering student in **Computer Science and Networks** at **
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🌐 Frontend
+![Angular](https://img.shields.io/badge/Angular-009688?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -126,5 +127,5 @@ I am a final-year engineering student in **Computer Science and Networks** at **
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Nassim Zahri</p>
+  <p>Made with ❤️ by Nassim Zahri (and AI ofc...)</p>
 </div>
