@@ -3,7 +3,7 @@
   <h3>Future Computer Science & Networks Engineer</h3>
   
   <p align="center">
-    <a href="https://github.com/NassimZahri">
+    <a target="_blank" href="https://github.com/NassimZahri">
       <img src="https://img.shields.io/badge/LOOKING%20FOR%20INTERNSHIP-4%20to%206%20months-blue?style=for-the-badge&logo=linkedin" />
     </a>
   </p>
@@ -12,7 +12,7 @@
     <a href="mailto:nassimzahri02@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-nassimzahri02%40gmail.com-red?style=flat-square&logo=gmail" />
     </a>
-    <a href="https://linkedin.com/in/nassimzahri">
+    <a target="_blank" href="https://www.linkedin.com/in/nassim-zahri-149314203/">
       <img src="https://img.shields.io/badge/LinkedIn-Nassim%20Zahri-blue?style=flat-square&logo=linkedin" />
     </a>
   </p>
@@ -74,13 +74,13 @@ I am a final-year engineering student in **Computer Science and Networks** at **
 
 ## 💼 Experience
 
-### **AI & Data Science Intern** @ [Saphir Systems](https://saphirsystems.com)
+### **AI & Data Science Intern** @ [Saphir Systems](https://www.saphirsystems.com/)
 *July 2024 – Sept 2024*
 - Developed a **fraud detection system** using Python, scikit-learn, and pandas.
 - Deployed the model via a **FastAPI RESTful API**.
 - Created dashboards with **Matplotlib** for visualization.
 
-### **Co-Founder** @ Mounlight Media
+### **Co-Founder** @ [Mounlight Media](https://www.mounlightmedia.com/)
 *2020 – Present*
 - Complete creative supervision and brand identity creation.
 - Web design and development using Webflow & WordPress.
