@@ -1,12 +1,6 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Nassim Zahri 👋</h1>
+  <h1 align="center">Hi there, I'm Nassim Zahri </h1>
   <h3>Future Computer Science & Networks Engineer</h3>
-  
-  <p align="center">
-    <a target="_blank" href="https://github.com/NassimZahri">
-      <img src="https://img.shields.io/badge/LOOKING%20FOR%20INTERNSHIP-4%20to%206%20months-blue?style=for-the-badge&logo=linkedin" />
-    </a>
-  </p>
 
   <p align="center">
     <a href="mailto:nassimzahri02@gmail.com">
@@ -20,20 +14,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## ツ About Me
 
 I am a final-year engineering student in **Computer Science and Networks** at **EMSI**, passionate about **Artificial Intelligence**, **DevOps**, and **Cloud Computing**. 
 
-- 🔭 I’m currently looking for a **Graduation Internship (PFE)** for a duration of 4 to 6 months.
-- 🌱 I’m currently learning deeper concepts in **Backend Development**, **MLOps** and **Advanced Cloud Architecture**.
-- 👯 I’m looking to collaborate on projects related to AI and Automation.
-- ⚡ Fun fact: I play Chess ♟️.
+- ▒ I’m currently learning deeper concepts in **Fullstack Development**, **System design** and **DevOps**.
+- ▒ I’m looking to collaborate on projects.
+ ♔ Fun fact: I play Chess ♟️.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,14 +38,14 @@ I am a final-year engineering student in **Computer Science and Networks** at **
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 🤖 AI & Data
+###  AI & Data
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -73,7 +66,7 @@ I am a final-year engineering student in **Computer Science and Networks** at **
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### **AI & Data Science Intern** @ [Saphir Systems](https://www.saphirsystems.com/)
 *July 2024 – Sept 2024*
@@ -89,7 +82,7 @@ I am a final-year engineering student in **Computer Science and Networks** at **
 
 ---
 
-## 🎓 Education
+##  Education
 
 ### **Computer Science and Networks Engineering**
 **Ecole Marocaine des Sciences de l'Ingénieur (EMSI)** | *2023 – Present*
@@ -99,7 +92,7 @@ I am a final-year engineering student in **Computer Science and Networks** at **
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### **Image Prompt Generation API** (.NET 8, Azure OpenAI)
 - Designed a REST API integrating **Azure OpenAI (vision)**.
@@ -118,7 +111,7 @@ I am a final-year engineering student in **Computer Science and Networks** at **
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - **Oracle APEX Cloud Developer Certified Professional** (2025)
 - **Introduction to Containers w/ Docker, Kubernetes & OpenShift** - IBM (2025)
@@ -128,5 +121,5 @@ I am a final-year engineering student in **Computer Science and Networks** at **
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Nassim Zahri (and AI ofc...)</p>
+  <p>Made with [Pure intent of getting a job🥀] by Nassim Zahri</p>
 </div>
